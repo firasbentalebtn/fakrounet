@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "148680572098",
+    "firebase_url": "https://fakrounetv1-default-rtdb.firebaseio.com",
+    "project_id": "fakrounetv1",
+    "storage_bucket": "fakrounetv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148680572098:android:15abbd6c1e1b47fc2a0f5b",
+        "android_client_info": {
+          "package_name": "info.main.bioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148680572098-3i4v85nf36lddajjg13mdfgca5e8m2fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.main.bioapp",
+            "certificate_hash": "9fa3b15efae5c31087ae34bbaf9fb40195e0a6a2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SktHZ93Gmn0s6YMAmppZ1owV6fILSqk"
+        },
+        {
+          "current_key": "AIzaSyCbul7FuMWz90nvSjMblIXreGpvyFU2W0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148680572098:android:57dbbf0f027875ad2a0f5b",
+        "android_client_info": {
+          "package_name": "info.main.fakrounet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SktHZ93Gmn0s6YMAmppZ1owV6fILSqk"
+        },
+        {
+          "current_key": "AIzaSyCbul7FuMWz90nvSjMblIXreGpvyFU2W0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
